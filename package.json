@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+   "proxy": "https://training.dhis2.udsm.ac.tz",
   "eslintConfig": {
     "extends": [
       "react-app",
